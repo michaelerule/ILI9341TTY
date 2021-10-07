@@ -1,0 +1,8 @@
+#!/usr/bin/env bash 
+
+stty -F /dev/ttyACM* 57600 ixon
+sleep 4
+stty cols 53 rows 20
+python3 ./priceofbitcoin.py | tee /dev/ttyACM*
+
+

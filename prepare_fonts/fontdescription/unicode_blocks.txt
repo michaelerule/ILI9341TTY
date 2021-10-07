@@ -1,0 +1,320 @@
+ 0 BMP 	U+0000..U+007F 	Basic Latin 	128 	128 	Latin (52 characters), Common (76 characters)
+ 0 BMP 	U+0080..U+00FF 	Latin-1 Supplement 	128 	128 	Latin (64 characters), Common (64 characters)
+ 0 BMP 	U+0100..U+017F 	Latin Extended-A 	128 	128 	Latin
+ 0 BMP 	U+0180..U+024F 	Latin Extended-B 	208 	208 	Latin
+ 0 BMP 	U+0250..U+02AF 	IPA Extensions 	96 	96 	Latin
+ 0 BMP 	U+02B0..U+02FF 	Spacing Modifier Letters 	80 	80 	Bopomofo (2 characters), Latin (14 characters), Common (64 characters)
+ 0 BMP 	U+0300..U+036F 	Combining Diacritical Marks 	112 	112 	Inherited
+ 0 BMP 	U+0370..U+03FF 	Greek and Coptic 	144 	135 	Coptic (14 characters), Greek (117 characters), Common (4 characters)
+ 0 BMP 	U+0400..U+04FF 	Cyrillic 	256 	256 	Cyrillic (254 characters), Inherited (2 characters)
+ 0 BMP 	U+0500..U+052F 	Cyrillic Supplement 	48 	48 	Cyrillic
+ 0 BMP 	U+0530..U+058F 	Armenian 	96 	91 	Armenian
+ 0 BMP 	U+0590..U+05FF 	Hebrew 	112 	88 	Hebrew
+ 0 BMP 	U+0600..U+06FF 	Arabic 	256 	256 	Arabic (238 characters), Common (6 characters), Inherited (12 characters)
+ 0 BMP 	U+0700..U+074F 	Syriac 	80 	77 	Syriac
+ 0 BMP 	U+0750..U+077F 	Arabic Supplement 	48 	48 	Arabic
+ 0 BMP 	U+0780..U+07BF 	Thaana 	64 	50 	Thaana
+ 0 BMP 	U+07C0..U+07FF 	NKo 	64 	62 	Nko
+ 0 BMP 	U+0800..U+083F 	Samaritan 	64 	61 	Samaritan
+ 0 BMP 	U+0840..U+085F 	Mandaic 	32 	29 	Mandaic
+ 0 BMP 	U+0860..U+086F 	Syriac Supplement 	16 	11 	Syriac
+ 0 BMP 	U+0870..U+089F 	Arabic Extended-B 	48 	41 	Arabic
+ 0 BMP 	U+08A0..U+08FF 	Arabic Extended-A 	96 	96 	Arabic (95 characters), Common (1 character)
+ 0 BMP 	U+0900..U+097F 	Devanagari 	128 	128 	Devanagari (122 characters), Common (2 characters), Inherited (4 characters)
+ 0 BMP 	U+0980..U+09FF 	Bengali 	128 	96 	Bengali
+ 0 BMP 	U+0A00..U+0A7F 	Gurmukhi 	128 	80 	Gurmukhi
+ 0 BMP 	U+0A80..U+0AFF 	Gujarati 	128 	91 	Gujarati
+ 0 BMP 	U+0B00..U+0B7F 	Oriya 	128 	91 	Oriya
+ 0 BMP 	U+0B80..U+0BFF 	Tamil 	128 	72 	Tamil
+ 0 BMP 	U+0C00..U+0C7F 	Telugu 	128 	100 	Telugu
+ 0 BMP 	U+0C80..U+0CFF 	Kannada 	128 	90 	Kannada
+ 0 BMP 	U+0D00..U+0D7F 	Malayalam 	128 	118 	Malayalam
+ 0 BMP 	U+0D80..U+0DFF 	Sinhala 	128 	91 	Sinhala
+ 0 BMP 	U+0E00..U+0E7F 	Thai 	128 	87 	Thai (86 characters), Common (1 character)
+ 0 BMP 	U+0E80..U+0EFF 	Lao 	128 	82 	Lao
+ 0 BMP 	U+0F00..U+0FFF 	Tibetan 	256 	211 	Tibetan (207 characters), Common (4 characters)
+ 0 BMP 	U+1000..U+109F 	Myanmar 	160 	160 	Myanmar
+ 0 BMP 	U+10A0..U+10FF 	Georgian 	96 	88 	Georgian (87 characters), Common (1 character)
+ 0 BMP 	U+1100..U+11FF 	Hangul Jamo 	256 	256 	Hangul
+ 0 BMP 	U+1200..U+137F 	Ethiopic 	384 	358 	Ethiopic
+ 0 BMP 	U+1380..U+139F 	Ethiopic Supplement 	32 	26 	Ethiopic
+ 0 BMP 	U+13A0..U+13FF 	Cherokee 	96 	92 	Cherokee
+ 0 BMP 	U+1400..U+167F 	Unified Canadian Aboriginal Syllabics 	640 	640 	Canadian Aboriginal
+ 0 BMP 	U+1680..U+169F 	Ogham 	32 	29 	Ogham
+ 0 BMP 	U+16A0..U+16FF 	Runic 	96 	89 	Runic (86 characters), Common (3 characters)
+ 0 BMP 	U+1700..U+171F 	Tagalog 	32 	23 	Tagalog
+ 0 BMP 	U+1720..U+173F 	Hanunoo 	32 	23 	Hanunoo (21 characters), Common (2 characters)
+ 0 BMP 	U+1740..U+175F 	Buhid 	32 	20 	Buhid
+ 0 BMP 	U+1760..U+177F 	Tagbanwa 	32 	18 	Tagbanwa
+ 0 BMP 	U+1780..U+17FF 	Khmer 	128 	114 	Khmer
+ 0 BMP 	U+1800..U+18AF 	Mongolian 	176 	158 	Mongolian (155 characters), Common (3 characters)
+ 0 BMP 	U+18B0..U+18FF 	Unified Canadian Aboriginal Syllabics Extended 	80 	70 	Canadian Aboriginal
+ 0 BMP 	U+1900..U+194F 	Limbu 	80 	68 	Limbu
+ 0 BMP 	U+1950..U+197F 	Tai Le 	48 	35 	Tai Le
+ 0 BMP 	U+1980..U+19DF 	New Tai Lue 	96 	83 	New Tai Lue
+ 0 BMP 	U+19E0..U+19FF 	Khmer Symbols 	32 	32 	Khmer
+ 0 BMP 	U+1A00..U+1A1F 	Buginese 	32 	30 	Buginese
+ 0 BMP 	U+1A20..U+1AAF 	Tai Tham 	144 	127 	Tai Tham
+ 0 BMP 	U+1AB0..U+1AFF 	Combining Diacritical Marks Extended 	80 	31 	Inherited
+ 0 BMP 	U+1B00..U+1B7F 	Balinese 	128 	124 	Balinese
+ 0 BMP 	U+1B80..U+1BBF 	Sundanese 	64 	64 	Sundanese
+ 0 BMP 	U+1BC0..U+1BFF 	Batak 	64 	56 	Batak
+ 0 BMP 	U+1C00..U+1C4F 	Lepcha 	80 	74 	Lepcha
+ 0 BMP 	U+1C50..U+1C7F 	Ol Chiki 	48 	48 	Ol Chiki
+ 0 BMP 	U+1C80..U+1C8F 	Cyrillic Extended-C 	16 	9 	Cyrillic
+ 0 BMP 	U+1C90..U+1CBF 	Georgian Extended 	48 	46 	Georgian
+ 0 BMP 	U+1CC0..U+1CCF 	Sundanese Supplement 	16 	8 	Sundanese
+ 0 BMP 	U+1CD0..U+1CFF 	Vedic Extensions 	48 	43 	Common (16 characters), Inherited (27 characters)
+ 0 BMP 	U+1D00..U+1D7F 	Phonetic Extensions 	128 	128 	Cyrillic (2 characters), Greek (15 characters), Latin (111 characters)
+ 0 BMP 	U+1D80..U+1DBF 	Phonetic Extensions Supplement 	64 	64 	Greek (1 character), Latin (63 characters)
+ 0 BMP 	U+1DC0..U+1DFF 	Combining Diacritical Marks Supplement 	64 	64 	Inherited
+ 0 BMP 	U+1E00..U+1EFF 	Latin Extended Additional 	256 	256 	Latin
+ 0 BMP 	U+1F00..U+1FFF 	Greek Extended 	256 	233 	Greek
+ 0 BMP 	U+2000..U+206F 	General Punctuation 	112 	111 	Common (109 characters), Inherited (2 characters)
+ 0 BMP 	U+2070..U+209F 	Superscripts and Subscripts 	48 	42 	Latin (15 characters), Common (27 characters)
+ 0 BMP 	U+20A0..U+20CF 	Currency Symbols 	48 	33 	Common
+ 0 BMP 	U+20D0..U+20FF 	Combining Diacritical Marks for Symbols 	48 	33 	Inherited
+ 0 BMP 	U+2100..U+214F 	Letterlike Symbols 	80 	80 	Greek (1 character), Latin (4 characters), Common (75 characters)
+ 0 BMP 	U+2150..U+218F 	Number Forms 	64 	60 	Latin (41 characters), Common (19 characters)
+ 0 BMP 	U+2190..U+21FF 	Arrows 	112 	112 	Common
+ 0 BMP 	U+2200..U+22FF 	Mathematical Operators 	256 	256 	Common
+ 0 BMP 	U+2300..U+23FF 	Miscellaneous Technical 	256 	256 	Common
+ 0 BMP 	U+2400..U+243F 	Control Pictures 	64 	39 	Common
+ 0 BMP 	U+2440..U+245F 	Optical Character Recognition 	32 	11 	Common
+ 0 BMP 	U+2460..U+24FF 	Enclosed Alphanumerics 	160 	160 	Common
+ 0 BMP 	U+2500..U+257F 	Box Drawing 	128 	128 	Common
+ 0 BMP 	U+2580..U+259F 	Block Elements 	32 	32 	Common
+ 0 BMP 	U+25A0..U+25FF 	Geometric Shapes 	96 	96 	Common
+ 0 BMP 	U+2600..U+26FF 	Miscellaneous Symbols 	256 	256 	Common
+ 0 BMP 	U+2700..U+27BF 	Dingbats 	192 	192 	Common
+ 0 BMP 	U+27C0..U+27EF 	Miscellaneous Mathematical Symbols-A 	48 	48 	Common
+ 0 BMP 	U+27F0..U+27FF 	Supplemental Arrows-A 	16 	16 	Common
+ 0 BMP 	U+2800..U+28FF 	Braille Patterns 	256 	256 	Braille
+ 0 BMP 	U+2900..U+297F 	Supplemental Arrows-B 	128 	128 	Common
+ 0 BMP 	U+2980..U+29FF 	Miscellaneous Mathematical Symbols-B 	128 	128 	Common
+ 0 BMP 	U+2A00..U+2AFF 	Supplemental Mathematical Operators 	256 	256 	Common
+ 0 BMP 	U+2B00..U+2BFF 	Miscellaneous Symbols and Arrows 	256 	253 	Common
+ 0 BMP 	U+2C00..U+2C5F 	Glagolitic 	96 	96 	Glagolitic
+ 0 BMP 	U+2C60..U+2C7F 	Latin Extended-C 	32 	32 	Latin
+ 0 BMP 	U+2C80..U+2CFF 	Coptic 	128 	123 	Coptic
+ 0 BMP 	U+2D00..U+2D2F 	Georgian Supplement 	48 	40 	Georgian
+ 0 BMP 	U+2D30..U+2D7F 	Tifinagh 	80 	59 	Tifinagh
+ 0 BMP 	U+2D80..U+2DDF 	Ethiopic Extended 	96 	79 	Ethiopic
+ 0 BMP 	U+2DE0..U+2DFF 	Cyrillic Extended-A 	32 	32 	Cyrillic
+ 0 BMP 	U+2E00..U+2E7F 	Supplemental Punctuation 	128 	94 	Common
+ 0 BMP 	U+2E80..U+2EFF 	CJK Radicals Supplement 	128 	115 	Han
+ 0 BMP 	U+2F00..U+2FDF 	Kangxi Radicals 	224 	214 	Han
+ 0 BMP 	U+2FF0..U+2FFF 	Ideographic Description Characters 	16 	12 	Common
+ 0 BMP 	U+3000..U+303F 	CJK Symbols and Punctuation 	64 	64 	Han (15 characters), Hangul (2 characters), Common (43 characters), Inherited (4 characters)
+ 0 BMP 	U+3040..U+309F 	Hiragana 	96 	93 	Hiragana (89 characters), Common (2 characters), Inherited (2 characters)
+ 0 BMP 	U+30A0..U+30FF 	Katakana 	96 	96 	Katakana (93 characters), Common (3 characters)
+ 0 BMP 	U+3100..U+312F 	Bopomofo 	48 	43 	Bopomofo
+ 0 BMP 	U+3130..U+318F 	Hangul Compatibility Jamo 	96 	94 	Hangul
+ 0 BMP 	U+3190..U+319F 	Kanbun 	16 	16 	Common
+ 0 BMP 	U+31A0..U+31BF 	Bopomofo Extended 	32 	32 	Bopomofo
+ 0 BMP 	U+31C0..U+31EF 	CJK Strokes 	48 	36 	Common
+ 0 BMP 	U+31F0..U+31FF 	Katakana Phonetic Extensions 	16 	16 	Katakana
+ 0 BMP 	U+3200..U+32FF 	Enclosed CJK Letters and Months 	256 	255 	Hangul (62 characters), Katakana (47 characters), Common (146 characters)
+ 0 BMP 	U+3300..U+33FF 	CJK Compatibility 	256 	256 	Katakana (88 characters), Common (168 characters)
+ 0 BMP 	U+3400..U+4DBF 	CJK Unified Ideographs Extension A 	6,592 	6,592 	Han
+ 0 BMP 	U+4DC0..U+4DFF 	Yijing Hexagram Symbols 	64 	64 	Common
+ 0 BMP 	U+4E00..U+9FFF 	CJK Unified Ideographs 	20,992 	20,992 	Han
+ 0 BMP 	U+A000..U+A48F 	Yi Syllables 	1,168 	1,165 	Yi
+ 0 BMP 	U+A490..U+A4CF 	Yi Radicals 	64 	55 	Yi
+ 0 BMP 	U+A4D0..U+A4FF 	Lisu 	48 	48 	Lisu
+ 0 BMP 	U+A500..U+A63F 	Vai 	320 	300 	Vai
+ 0 BMP 	U+A640..U+A69F 	Cyrillic Extended-B 	96 	96 	Cyrillic
+ 0 BMP 	U+A6A0..U+A6FF 	Bamum 	96 	88 	Bamum
+ 0 BMP 	U+A700..U+A71F 	Modifier Tone Letters 	32 	32 	Common
+ 0 BMP 	U+A720..U+A7FF 	Latin Extended-D 	224 	193 	Latin (188 characters), Common (5 characters)
+ 0 BMP 	U+A800..U+A82F 	Syloti Nagri 	48 	45 	Syloti Nagri
+ 0 BMP 	U+A830..U+A83F 	Common Indic Number Forms 	16 	10 	Common
+ 0 BMP 	U+A840..U+A87F 	Phags-pa 	64 	56 	Phags Pa
+ 0 BMP 	U+A880..U+A8DF 	Saurashtra 	96 	82 	Saurashtra
+ 0 BMP 	U+A8E0..U+A8FF 	Devanagari Extended 	32 	32 	Devanagari
+ 0 BMP 	U+A900..U+A92F 	Kayah Li 	48 	48 	Kayah Li (47 characters), Common (1 character)
+ 0 BMP 	U+A930..U+A95F 	Rejang 	48 	37 	Rejang
+ 0 BMP 	U+A960..U+A97F 	Hangul Jamo Extended-A 	32 	29 	Hangul
+ 0 BMP 	U+A980..U+A9DF 	Javanese 	96 	91 	Javanese (90 characters), Common (1 character)
+ 0 BMP 	U+A9E0..U+A9FF 	Myanmar Extended-B 	32 	31 	Myanmar
+ 0 BMP 	U+AA00..U+AA5F 	Cham 	96 	83 	Cham
+ 0 BMP 	U+AA60..U+AA7F 	Myanmar Extended-A 	32 	32 	Myanmar
+ 0 BMP 	U+AA80..U+AADF 	Tai Viet 	96 	72 	Tai Viet
+ 0 BMP 	U+AAE0..U+AAFF 	Meetei Mayek Extensions 	32 	23 	Meetei Mayek
+ 0 BMP 	U+AB00..U+AB2F 	Ethiopic Extended-A 	48 	32 	Ethiopic
+ 0 BMP 	U+AB30..U+AB6F 	Latin Extended-E 	64 	60 	Latin (56 characters), Greek (1 character), Common (3 characters)
+ 0 BMP 	U+AB70..U+ABBF 	Cherokee Supplement 	80 	80 	Cherokee
+ 0 BMP 	U+ABC0..U+ABFF 	Meetei Mayek 	64 	56 	Meetei Mayek
+ 0 BMP 	U+AC00..U+D7AF 	Hangul Syllables 	11,184 	11,172 	Hangul
+ 0 BMP 	U+D7B0..U+D7FF 	Hangul Jamo Extended-B 	80 	72 	Hangul
+ 0 BMP 	U+D800..U+DB7F 	High Surrogates 	896 	0 	Unknown
+ 0 BMP 	U+DB80..U+DBFF 	High Private Use Surrogates 	128 	0 	Unknown
+ 0 BMP 	U+DC00..U+DFFF 	Low Surrogates 	1,024 	0 	Unknown
+ 0 BMP 	U+E000..U+F8FF 	Private Use Area 	6,400 	6,400 	Unknown
+ 0 BMP 	U+F900..U+FAFF 	CJK Compatibility Ideographs 	512 	472 	Han
+ 0 BMP 	U+FB00..U+FB4F 	Alphabetic Presentation Forms 	80 	58 	Armenian (5 characters), Hebrew (46 characters), Latin (7 characters)
+ 0 BMP 	U+FB50..U+FDFF 	Arabic Presentation Forms-A 	688 	631 	Arabic (629 characters), Common (2 characters)
+ 0 BMP 	U+FE00..U+FE0F 	Variation Selectors 	16 	16 	Inherited
+ 0 BMP 	U+FE10..U+FE1F 	Vertical Forms 	16 	10 	Common
+ 0 BMP 	U+FE20..U+FE2F 	Combining Half Marks 	16 	16 	Cyrillic (2 characters), Inherited (14 characters)
+ 0 BMP 	U+FE30..U+FE4F 	CJK Compatibility Forms 	32 	32 	Common
+ 0 BMP 	U+FE50..U+FE6F 	Small Form Variants 	32 	26 	Common
+ 0 BMP 	U+FE70..U+FEFF 	Arabic Presentation Forms-B 	144 	141 	Arabic (140 characters), Common (1 character)
+ 0 BMP 	U+FF00..U+FFEF 	Halfwidth and Fullwidth Forms 	240 	225 	Hangul (52 characters), Katakana (55 characters), Latin (52 characters), Common (66 characters)
+ 0 BMP 	U+FFF0..U+FFFF 	Specials 	16 	5 	Common
+ 1 SMP 	U+10000..U+1007F 	Linear B Syllabary 	128 	88 	Linear B
+ 1 SMP 	U+10080..U+100FF 	Linear B Ideograms 	128 	123 	Linear B
+ 1 SMP 	U+10100..U+1013F 	Aegean Numbers 	64 	57 	Common
+ 1 SMP 	U+10140..U+1018F 	Ancient Greek Numbers 	80 	79 	Greek
+ 1 SMP 	U+10190..U+101CF 	Ancient Symbols 	64 	14 	Greek (1 character), Common (13 characters)
+ 1 SMP 	U+101D0..U+101FF 	Phaistos Disc 	48 	46 	Common (45 characters), Inherited (1 character)
+ 1 SMP 	U+10280..U+1029F 	Lycian 	32 	29 	Lycian
+ 1 SMP 	U+102A0..U+102DF 	Carian 	64 	49 	Carian
+ 1 SMP 	U+102E0..U+102FF 	Coptic Epact Numbers 	32 	28 	Common (27 characters), Inherited (1 character)
+ 1 SMP 	U+10300..U+1032F 	Old Italic 	48 	39 	Old Italic
+ 1 SMP 	U+10330..U+1034F 	Gothic 	32 	27 	Gothic
+ 1 SMP 	U+10350..U+1037F 	Old Permic 	48 	43 	Old Permic
+ 1 SMP 	U+10380..U+1039F 	Ugaritic 	32 	31 	Ugaritic
+ 1 SMP 	U+103A0..U+103DF 	Old Persian 	64 	50 	Old Persian
+ 1 SMP 	U+10400..U+1044F 	Deseret 	80 	80 	Deseret
+ 1 SMP 	U+10450..U+1047F 	Shavian 	48 	48 	Shavian
+ 1 SMP 	U+10480..U+104AF 	Osmanya 	48 	40 	Osmanya
+ 1 SMP 	U+104B0..U+104FF 	Osage 	80 	72 	Osage
+ 1 SMP 	U+10500..U+1052F 	Elbasan 	48 	40 	Elbasan
+ 1 SMP 	U+10530..U+1056F 	Caucasian Albanian 	64 	53 	Caucasian Albanian
+ 1 SMP 	U+10570..U+105BF 	Vithkuqi 	80 	70 	Vithkuqi
+ 1 SMP 	U+10600..U+1077F 	Linear A 	384 	341 	Linear A
+ 1 SMP 	U+10780..U+107BF 	Latin Extended-F 	64 	57 	Latin
+ 1 SMP 	U+10800..U+1083F 	Cypriot Syllabary 	64 	55 	Cypriot
+ 1 SMP 	U+10840..U+1085F 	Imperial Aramaic 	32 	31 	Imperial Aramaic
+ 1 SMP 	U+10860..U+1087F 	Palmyrene 	32 	32 	Palmyrene
+ 1 SMP 	U+10880..U+108AF 	Nabataean 	48 	40 	Nabataean
+ 1 SMP 	U+108E0..U+108FF 	Hatran 	32 	26 	Hatran
+ 1 SMP 	U+10900..U+1091F 	Phoenician 	32 	29 	Phoenician
+ 1 SMP 	U+10920..U+1093F 	Lydian 	32 	27 	Lydian
+ 1 SMP 	U+10980..U+1099F 	Meroitic Hieroglyphs 	32 	32 	Meroitic Hieroglyphs
+ 1 SMP 	U+109A0..U+109FF 	Meroitic Cursive 	96 	90 	Meroitic Cursive
+ 1 SMP 	U+10A00..U+10A5F 	Kharoshthi 	96 	68 	Kharoshthi
+ 1 SMP 	U+10A60..U+10A7F 	Old South Arabian 	32 	32 	Old South Arabian
+ 1 SMP 	U+10A80..U+10A9F 	Old North Arabian 	32 	32 	Old North Arabian
+ 1 SMP 	U+10AC0..U+10AFF 	Manichaean 	64 	51 	Manichaean
+ 1 SMP 	U+10B00..U+10B3F 	Avestan 	64 	61 	Avestan
+ 1 SMP 	U+10B40..U+10B5F 	Inscriptional Parthian 	32 	30 	Inscriptional Parthian
+ 1 SMP 	U+10B60..U+10B7F 	Inscriptional Pahlavi 	32 	27 	Inscriptional Pahlavi
+ 1 SMP 	U+10B80..U+10BAF 	Psalter Pahlavi 	48 	29 	Psalter Pahlavi
+ 1 SMP 	U+10C00..U+10C4F 	Old Turkic 	80 	73 	Old Turkic
+ 1 SMP 	U+10C80..U+10CFF 	Old Hungarian 	128 	108 	Old Hungarian
+ 1 SMP 	U+10D00..U+10D3F 	Hanifi Rohingya 	64 	50 	Hanifi Rohingya
+ 1 SMP 	U+10E60..U+10E7F 	Rumi Numeral Symbols 	32 	31 	Arabic
+ 1 SMP 	U+10E80..U+10EBF 	Yezidi 	64 	47 	Yezidi
+ 1 SMP 	U+10F00..U+10F2F 	Old Sogdian 	48 	40 	Old Sogdian
+ 1 SMP 	U+10F30..U+10F6F 	Sogdian 	64 	42 	Sogdian
+ 1 SMP 	U+10F70..U+10FAF 	Old Uyghur 	64 	26 	Old Uyghur
+ 1 SMP 	U+10FB0..U+10FDF 	Chorasmian 	48 	28 	Chorasmian
+ 1 SMP 	U+10FE0..U+10FFF 	Elymaic 	32 	23 	Elymaic
+ 1 SMP 	U+11000..U+1107F 	Brahmi 	128 	115 	Brahmi
+ 1 SMP 	U+11080..U+110CF 	Kaithi 	80 	68 	Kaithi
+ 1 SMP 	U+110D0..U+110FF 	Sora Sompeng 	48 	35 	Sora Sompeng
+ 1 SMP 	U+11100..U+1114F 	Chakma 	80 	71 	Chakma
+ 1 SMP 	U+11150..U+1117F 	Mahajani 	48 	39 	Mahajani
+ 1 SMP 	U+11180..U+111DF 	Sharada 	96 	96 	Sharada
+ 1 SMP 	U+111E0..U+111FF 	Sinhala Archaic Numbers 	32 	20 	Sinhala
+ 1 SMP 	U+11200..U+1124F 	Khojki 	80 	62 	Khojki
+ 1 SMP 	U+11280..U+112AF 	Multani 	48 	38 	Multani
+ 1 SMP 	U+112B0..U+112FF 	Khudawadi 	80 	69 	Khudawadi
+ 1 SMP 	U+11300..U+1137F 	Grantha 	128 	86 	Grantha (85 characters), Inherited (1 character)
+ 1 SMP 	U+11400..U+1147F 	Newa 	128 	97 	Newa
+ 1 SMP 	U+11480..U+114DF 	Tirhuta 	96 	82 	Tirhuta
+ 1 SMP 	U+11580..U+115FF 	Siddham 	128 	92 	Siddham
+ 1 SMP 	U+11600..U+1165F 	Modi 	96 	79 	Modi
+ 1 SMP 	U+11660..U+1167F 	Mongolian Supplement 	32 	13 	Mongolian
+ 1 SMP 	U+11680..U+116CF 	Takri 	80 	68 	Takri
+ 1 SMP 	U+11700..U+1174F 	Ahom 	80 	65 	Ahom
+ 1 SMP 	U+11800..U+1184F 	Dogra 	80 	60 	Dogra
+ 1 SMP 	U+118A0..U+118FF 	Warang Citi 	96 	84 	Warang Citi
+ 1 SMP 	U+11900..U+1195F 	Dives Akuru 	96 	72 	Dives Akuru
+ 1 SMP 	U+119A0..U+119FF 	Nandinagari 	96 	65 	Nandinagari
+ 1 SMP 	U+11A00..U+11A4F 	Zanabazar Square 	80 	72 	Zanabazar Square
+ 1 SMP 	U+11A50..U+11AAF 	Soyombo 	96 	83 	Soyombo
+ 1 SMP 	U+11AB0..U+11ABF 	Unified Canadian Aboriginal Syllabics Extended-A 	16 	16 	Canadian Aboriginal
+ 1 SMP 	U+11AC0..U+11AFF 	Pau Cin Hau 	64 	57 	Pau Cin Hau
+ 1 SMP 	U+11C00..U+11C6F 	Bhaiksuki 	112 	97 	Bhaiksuki
+ 1 SMP 	U+11C70..U+11CBF 	Marchen 	80 	68 	Marchen
+ 1 SMP 	U+11D00..U+11D5F 	Masaram Gondi 	96 	75 	Masaram Gondi
+ 1 SMP 	U+11D60..U+11DAF 	Gunjala Gondi 	80 	63 	Gunjala Gondi
+ 1 SMP 	U+11EE0..U+11EFF 	Makasar 	32 	25 	Makasar
+ 1 SMP 	U+11FB0..U+11FBF 	Lisu Supplement 	16 	1 	Lisu
+ 1 SMP 	U+11FC0..U+11FFF 	Tamil Supplement 	64 	51 	Tamil
+ 1 SMP 	U+12000..U+123FF 	Cuneiform 	1,024 	922 	Cuneiform
+ 1 SMP 	U+12400..U+1247F 	Cuneiform Numbers and Punctuation 	128 	116 	Cuneiform
+ 1 SMP 	U+12480..U+1254F 	Early Dynastic Cuneiform 	208 	196 	Cuneiform
+ 1 SMP 	U+12F90..U+12FFF 	Cypro-Minoan 	112 	99 	Cypro Minoan
+ 1 SMP 	U+13000..U+1342F 	Egyptian Hieroglyphs 	1,072 	1,071 	Egyptian Hieroglyphs
+ 1 SMP 	U+13430..U+1343F 	Egyptian Hieroglyph Format Controls 	16 	9 	Egyptian Hieroglyphs
+ 1 SMP 	U+14400..U+1467F 	Anatolian Hieroglyphs 	640 	583 	Anatolian Hieroglyphs
+ 1 SMP 	U+16800..U+16A3F 	Bamum Supplement 	576 	569 	Bamum
+ 1 SMP 	U+16A40..U+16A6F 	Mro 	48 	43 	Mro
+ 1 SMP 	U+16A70..U+16ACF 	Tangsa 	96 	89 	Tangsa
+ 1 SMP 	U+16AD0..U+16AFF 	Bassa Vah 	48 	36 	Bassa Vah
+ 1 SMP 	U+16B00..U+16B8F 	Pahawh Hmong 	144 	127 	Pahawh Hmong
+ 1 SMP 	U+16E40..U+16E9F 	Medefaidrin 	96 	91 	Medefaidrin
+ 1 SMP 	U+16F00..U+16F9F 	Miao 	160 	149 	Miao
+ 1 SMP 	U+16FE0..U+16FFF 	Ideographic Symbols and Punctuation 	32 	7 	Han (4 characters), Khitan Small Script (1 character), Nushu (1 character), Tangut (1 character)
+ 1 SMP 	U+17000..U+187FF 	Tangut 	6,144 	6,136 	Tangut
+ 1 SMP 	U+18800..U+18AFF 	Tangut Components 	768 	768 	Tangut
+ 1 SMP 	U+18B00..U+18CFF 	Khitan Small Script 	512 	470 	Khitan Small Script
+ 1 SMP 	U+18D00..U+18D7F 	Tangut Supplement 	128 	9 	Tangut
+ 1 SMP 	U+1AFF0..U+1AFFF 	Kana Extended-B 	16 	13 	Katakana
+ 1 SMP 	U+1B000..U+1B0FF 	Kana Supplement 	256 	256 	Hiragana (255 characters), Katakana (1 character)
+ 1 SMP 	U+1B100..U+1B12F 	Kana Extended-A 	48 	35 	Hiragana (32 characters), Katakana (3 characters)
+ 1 SMP 	U+1B130..U+1B16F 	Small Kana Extension 	64 	7 	Hiragana (3 characters), Katakana (4 characters)
+ 1 SMP 	U+1B170..U+1B2FF 	Nushu 	400 	396 	Nüshu
+ 1 SMP 	U+1BC00..U+1BC9F 	Duployan 	160 	143 	Duployan
+ 1 SMP 	U+1BCA0..U+1BCAF 	Shorthand Format Controls 	16 	4 	Common
+ 1 SMP 	U+1CF00..U+1CFCF 	Znamenny Musical Notation 	208 	185 	Common (116 characters), Inherited (69 characters)
+ 1 SMP 	U+1D000..U+1D0FF 	Byzantine Musical Symbols 	256 	246 	Common
+ 1 SMP 	U+1D100..U+1D1FF 	Musical Symbols 	256 	233 	Common (211 characters), Inherited (22 characters)
+ 1 SMP 	U+1D200..U+1D24F 	Ancient Greek Musical Notation 	80 	70 	Greek
+ 1 SMP 	U+1D2E0..U+1D2FF 	Mayan Numerals 	32 	20 	Common
+ 1 SMP 	U+1D300..U+1D35F 	Tai Xuan Jing Symbols 	96 	87 	Common
+ 1 SMP 	U+1D360..U+1D37F 	Counting Rod Numerals 	32 	25 	Common
+ 1 SMP 	U+1D400..U+1D7FF 	Mathematical Alphanumeric Symbols 	1,024 	996 	Common
+ 1 SMP 	U+1D800..U+1DAAF 	Sutton SignWriting 	688 	672 	SignWriting
+ 1 SMP 	U+1DF00..U+1DFFF 	Latin Extended-G 	256 	31 	Latin
+ 1 SMP 	U+1E000..U+1E02F 	Glagolitic Supplement 	48 	38 	Glagolitic
+ 1 SMP 	U+1E100..U+1E14F 	Nyiakeng Puachue Hmong 	80 	71 	Nyiakeng Puachue Hmong
+ 1 SMP 	U+1E290..U+1E2BF 	Toto 	48 	31 	Toto
+ 1 SMP 	U+1E2C0..U+1E2FF 	Wancho 	64 	59 	Wancho
+ 1 SMP 	U+1E7E0..U+1E7FF 	Ethiopic Extended-B 	32 	28 	Ethiopic
+ 1 SMP 	U+1E800..U+1E8DF 	Mende Kikakui 	224 	213 	Mende Kikakui
+ 1 SMP 	U+1E900..U+1E95F 	Adlam 	96 	88 	Adlam
+ 1 SMP 	U+1EC70..U+1ECBF 	Indic Siyaq Numbers 	80 	68 	Common
+ 1 SMP 	U+1ED00..U+1ED4F 	Ottoman Siyaq Numbers 	80 	61 	Common
+ 1 SMP 	U+1EE00..U+1EEFF 	Arabic Mathematical Alphabetic Symbols 	256 	143 	Arabic
+ 1 SMP 	U+1F000..U+1F02F 	Mahjong Tiles 	48 	44 	Common
+ 1 SMP 	U+1F030..U+1F09F 	Domino Tiles 	112 	100 	Common
+ 1 SMP 	U+1F0A0..U+1F0FF 	Playing Cards 	96 	82 	Common
+ 1 SMP 	U+1F100..U+1F1FF 	Enclosed Alphanumeric Supplement 	256 	200 	Common
+ 1 SMP 	U+1F200..U+1F2FF 	Enclosed Ideographic Supplement 	256 	64 	Hiragana (1 character), Common (63 characters)
+ 1 SMP 	U+1F300..U+1F5FF 	Miscellaneous Symbols and Pictographs 	768 	768 	Common
+ 1 SMP 	U+1F600..U+1F64F 	Emoticons 	80 	80 	Common
+ 1 SMP 	U+1F650..U+1F67F 	Ornamental Dingbats 	48 	48 	Common
+ 1 SMP 	U+1F680..U+1F6FF 	Transport and Map Symbols 	128 	117 	Common
+ 1 SMP 	U+1F700..U+1F77F 	Alchemical Symbols 	128 	116 	Common
+ 1 SMP 	U+1F780..U+1F7FF 	Geometric Shapes Extended 	128 	102 	Common
+ 1 SMP 	U+1F800..U+1F8FF 	Supplemental Arrows-C 	256 	150 	Common
+ 1 SMP 	U+1F900..U+1F9FF 	Supplemental Symbols and Pictographs 	256 	256 	Common
+ 1 SMP 	U+1FA00..U+1FA6F 	Chess Symbols 	112 	98 	Common
+ 1 SMP 	U+1FA70..U+1FAFF 	Symbols and Pictographs Extended-A 	144 	88 	Common
+ 1 SMP 	U+1FB00..U+1FBFF 	Symbols for Legacy Computing 	256 	212 	Common
+ 2 SIP 	U+20000..U+2A6DF 	CJK Unified Ideographs Extension B 	42,720 	42,720 	Han
+ 2 SIP 	U+2A700..U+2B73F 	CJK Unified Ideographs Extension C 	4,160 	4,153 	Han
+ 2 SIP 	U+2B740..U+2B81F 	CJK Unified Ideographs Extension D 	224 	222 	Han
+ 2 SIP 	U+2B820..U+2CEAF 	CJK Unified Ideographs Extension E 	5,776 	5,762 	Han
+ 2 SIP 	U+2CEB0..U+2EBEF 	CJK Unified Ideographs Extension F 	7,488 	7,473 	Han
+ 2 SIP 	U+2F800..U+2FA1F 	CJK Compatibility Ideographs Supplement 	544 	542 	Han
+ 3 TIP 	U+30000..U+3134F 	CJK Unified Ideographs Extension G 	4,944 	4,939 	Han
+14 SSP 	U+E0000..U+E007F 	Tags 	128 	97 	Common
+14 SSP 	U+E0100..U+E01EF 	Variation Selectors Supplement 	240 	240 	Inherited
+15 PUA-A 	U+F0000..U+FFFFF 	Supplementary Private Use Area-A 	65,536 	65,534 	Unknown
+16 PUA-B 	U+100000..U+10FFFF 	Supplementary Private Use Area-B 	65,536 	65,534 	Unknown 
