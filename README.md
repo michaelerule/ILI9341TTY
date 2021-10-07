@@ -271,4 +271,9 @@ Notes specific to the ILI9341 shield on the Uno
 - The interface requires changing bits on both PORTB and PORTD. If you're not using any other pins on these ports, it's OK to write to all pins on both ports. Although the serial line is technically using bits 0 and 1 of PORTD, these bits will be ignore as long as the USART serial interface is enabled. To prepare to send a 256-color byte `b`, one can simply write `PORTB=PORTD=b;` (assuming all pins are set to output mode, of course). This is by far fastest way to get color data from the Arduino onto the ILI9341.
 - Loop iteration costs are nontrivial when flood-filling pixels. See if you can unroll loops to reduce these .
 
+# Future work?
 
+- Switch to vertical oritentation to get fast scrolling
+- Write a proxy program on the host side to get `XON/XOFF` software flow control working properly
+- Switch the unicode mapping tables to a sparse format (binary search through a sorted list)
+- Stress test with more demanding programs (e.g. text editors) to detect bugs and improve compatability, performance. 
