@@ -1,17 +1,14 @@
 # ILI9341TTY
 USB serial TTY for the Arduino Uno with ILI9341 LCD screen shield
 
-[[video]](https://vimeo.com/625432715)
+[![small7200003](https://user-images.githubusercontent.com/687425/136545726-7201accb-b339-4181-a5ac-83aaa7b98b43.gif)](https://vimeo.com/625432715)
 
+[[video]](https://vimeo.com/625432715)
 <video src="https://vimeo.com/625432715" width=180></video>
 
 ### Semigraphics, ANSI, unicode, and an Arduino LCD-screen terminal
 
-I've been playing with retro-styled interfaces terminal lately. The unicode [box and block drawing characters](https://en.wikipedia.org/wiki/Box-drawing_character) are wonderful for this, especially ["symbols for legacy computing"](https://en.wikipedia.org/wiki/Symbols_for_Legacy_Computing). These include characters from classic computers of the twentieth century, and the block-diagonal [teletext](https://en.wikipedia.org/wiki/Teletext_character_set) characters. 
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Symbols_for_Legacy_Computing_Unicode_block.png/1024px-Symbols_for_Legacy_Computing_Unicode_block.png" width="300px" height="300px" />
-
-These can be combined with [ANSI escape codes for styled and colored text](https://en.wikipedia.org/wiki/ANSI_escape_code#SGR_(Select_Graphic_Rendition)_parameters). Here's an example of a plot rendering in Gnome terminal using the teletext block-diagonal characters and ANSI color codes:
+I've been playing with retro-styled interfaces terminal lately. The unicode [box and block drawing characters](https://en.wikipedia.org/wiki/Box-drawing_character) are wonderful for this, especially ["symbols for legacy computing"](https://en.wikipedia.org/wiki/Symbols_for_Legacy_Computing). These include characters from classic computers of the twentieth century, and the block-diagonal [teletext](https://en.wikipedia.org/wiki/Teletext_character_set) characters. These can be combined with [ANSI escape codes for styled and colored text](https://en.wikipedia.org/wiki/ANSI_escape_code#SGR_(Select_Graphic_Rendition)_parameters). Here's an example of a plot rendering in Gnome terminal using the teletext block-diagonal characters and ANSI color codes:
 
 ![plot_examples](./writeup/ploteg.png)
 
@@ -31,6 +28,9 @@ In the broader universe of DIY terminals, Fabrizio Di Vittorio has a [full-featu
 4. Support the [box, block, and legacy computing chracters](https://en.wikipedia.org/wiki/Box-drawing_character)
 5. Optimize the drawing commands
 6. Squeeze as much unicode onto the Arduino as possible
+
+![Montage5](https://user-images.githubusercontent.com/687425/136545843-fec52a9e-94c9-4213-8547-1747da6c67de.png)
+
 
 # How to test it
 
