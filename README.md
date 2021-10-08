@@ -145,7 +145,7 @@ You can pipe ***all*** output from the shell to the screen by starting a new ins
 > stty -F /dev/MYARDUINOSERIALPORT MYBAUDRATE ixon cr3 ff1 nl1 bs1
 > stty cols 53 rows 20
 > bash | tee /dev/MYARDUINOSERIALPORT
-> # (all output will not be copied to the Arduino TTY )
+> # (all output will now be copied to the Arduino TTY )
 ```
 
 
