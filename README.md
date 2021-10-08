@@ -29,6 +29,9 @@ In the broader universe of DIY terminals, Fabrizio Di Vittorio has a [full-featu
 5. Optimize the drawing commands
 6. Squeeze as much unicode onto the Arduino as possible
 
+
+(sorry for the poor photo quality, digital camera interacts poorly with the screen's narrow view angle; contrast is better in person)
+
 ![Montage5](https://user-images.githubusercontent.com/687425/136545843-fec52a9e-94c9-4213-8547-1747da6c67de.png)
 
 
