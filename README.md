@@ -160,7 +160,8 @@ You can pipe ***all*** output from the shell to the screen by starting a new ins
 - Lower the baud rate
 - Increase the serial buffer size [[1](https://www.hobbytronics.co.uk/arduino-serial-buffer-size),[2](https://forum.arduino.cc/t/increase-size-of-serial-buffer/235420),[3](https://forum.arduino.cc/t/solved-serial-buffer-size/581828)]
 - Ensure that the host machine limits the rate at which it sends data
-- Implement [software control flow](https://en.wikipedia.org/wiki/Software_flow_control), which sends `XOFF` (19) to pause and `XON` (17) to resume. These can be enabled on linux by providing the `ixon` argument to stty when configuring the serial connection.
+- Implement [software control flow](https://en.wikipedia.org/wiki/Software_flow_control), which sends `XOFF` (19) to pause and `XON` (17) to resume. <s>These can be enabled on linux by providing the `ixon` argument to stty when configuring the serial connection.</s> (Edit: this may not work for USB serial devices)
+- 
 - Ask the host machine to add a small delay after some commands
 
 ### Increasing the serial buffer size
