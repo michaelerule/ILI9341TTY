@@ -20,7 +20,7 @@ However, getting good performance with the Arduino is hard. Scrolling requires r
 
 In the broader universe of DIY terminals, Fabrizio Di Vittorio has a [full-featured graphics library for the ESP32](https://github.com/fdivitto/fabgl), which includes an ANSI/VT terminal. James Moxham has explored Arduino terminals with [a wide variety of LCD and LED displays](https://www.instructables.com/A-Collection-of-ANSI-Terminals/). Scargill's tech blog has a [VT-100-esque vertical terminal using a ILI9340 display for the ESP8266](https://tech.scargill.net/an-arduino-terminal/) [(video)](https://www.youfortube.com/watch?v=qBxXZcleKq0). Matthew Sarnoff also has [this beautiful VT100 implementation using an oscilliscope as a display](http://www.msarnoff.org/terminalscope/). I was especially charmed by [ht-deko's implementation](https://github.com/ht-deko/vt100_stm32) of ANSI color and style codes for the STM32F103, which builds upon the work of [cbm80amiga](https://github.com/cbm80amiga/STM32_TFT22_terminal_RRE). 
 
-***Can we get an Arduino terminal that supports enough semigraphics charactes to, say, make use of most of the features of the [notcurses](https://github.com/dankamongmen/notcurses) terminal graphics library?*** Let's implement a virtual terminal monitor for the Arduino Uno and the ILI9341 LCD display with the following objectives: 
+***Can we get an Arduino terminal that supports enough semigraphics charactes?*** Let's implement a virtual terminal monitor for the Arduino Uno and the ILI9341 LCD display with the following objectives: 
 
 1. Fast enough to be a reasonable output device
 2. Support [ANSI escape codes](https://en.wikipedia.org/wiki/ANSI_escape_code) for color and style
