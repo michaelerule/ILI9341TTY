@@ -385,13 +385,6 @@ for codename,(name,start,stop,nassigned) in blockinfo.items():
     # Check how sparse the block is
     nsupported = last_supported_index - first_supported_index + 1
     blocklen = stop-start+1
-    sparsity = nsupported / blocklen
-    if blocklen<256 and sparsity<1/3*0.9:
-        print('PREPARE_UNICODE_MAPPING: sparsity of %s is %f'%(codename,sparsity))
-        print('(This should probably be encoded as a sparse block with 1-byte codes)')
-    elif sparsity<1/2*0.9:
-        print('PREPARE_UNICODE_MAPPING: sparsity of %s is %f'%(codename,sparsity))
-        print('(This should probably be encoded as a sparse block with 2-byte codes)')
     
     # Prepare glyph map for this block
     # Skip ranges at start/end that are not mapped
