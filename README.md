@@ -230,7 +230,7 @@ These modes relate to flags in the `c_oflag` register of the [`termio` struct](h
     FF0	No delay for FFs
     FF1	Delay 2 seconds after sending FFs
 
-To add the maximum delay after position commands, run
+To add the maximum delay after positioning commands, run
 ```bash
 stty -F /dev/MYARDUINOSERIALPORT BAUDRATE ixon cr3 ff1 nl1 bs1
 ```
