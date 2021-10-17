@@ -160,11 +160,13 @@ You can pipe ***all*** output from the shell to the screen by starting a new ins
 # Dealing with serial buffer overflow 
 
 ***If bytes arrive faster than the Arduino can react, the serial buffer will overflow. This leads to dropped bytes.*** To address this, one can
-- Lower the baud rate
-- Increase the serial buffer size [[1](https://www.hobbytronics.co.uk/arduino-serial-buffer-size),[2](https://forum.arduino.cc/t/increase-size-of-serial-buffer/235420),[3](https://forum.arduino.cc/t/solved-serial-buffer-size/581828)]
-- Ensure that the host machine limits the rate at which it sends data
-- Implement [software control flow](https://en.wikipedia.org/wiki/Software_flow_control), which sends `XOFF` (19) to pause and `XON` (17) to resume. <s>These can be enabled on linux by providing the `ixon` argument to stty when configuring the serial connection.</s> (Edit: this may not work for USB serial devices)
-- Ask the host machine to add a small delay after some commands
+1. Lower the baud rate
+2. Increase the serial buffer size [[1](https://www.hobbytronics.co.uk/arduino-serial-buffer-size),[2](https://forum.arduino.cc/t/increase-size-of-serial-buffer/235420),[3](https://forum.arduino.cc/t/solved-serial-buffer-size/581828)]
+3. Ensure that the host machine limits the rate at which it sends data
+4. Implement [software control flow](https://en.wikipedia.org/wiki/Software_flow_control), which sends `XOFF` (19) to pause and `XON` (17) to resume. <s>These can be enabled on linux by providing the `ixon` argument to stty when configuring the serial connection.</s> (Edit: this may not work for USB serial devices)
+5. Ask the host machine to add a small delay after some commands
+
+At the moment, the only guaranteed solution is (1) or (3). Increasing the buffer size (2) can help with transient loads, but still requires the host application to carefully limit its overall data-rate. Software control flow appears to not work on Linux with USB serial, although there may be hacks that work for specific hardware. The additional delays added by (5) are generally too small to make a difference.
 
 ### Increasing the serial buffer size
 
