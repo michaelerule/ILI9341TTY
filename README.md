@@ -6,6 +6,9 @@ USB serial TTY for the Arduino Uno with ILI9341 LCD screen shield
 [[video]](https://vimeo.com/625432715)
 <video src="https://vimeo.com/625432715" width=180></video>
 
+![Montage2](https://user-images.githubusercontent.com/687425/138597953-d5aba9b8-e358-4952-8c00-fc15979596ab.png)
+
+
 ### Semigraphics, ANSI, unicode, and an Arduino LCD-screen terminal
 
 I've been playing with retro-styled interfaces terminal lately. The unicode [box and block drawing characters](https://en.wikipedia.org/wiki/Box-drawing_character) are wonderful for this, especially ["symbols for legacy computing"](https://en.wikipedia.org/wiki/Symbols_for_Legacy_Computing). These include characters from classic computers of the twentieth century, and the block-diagonal [teletext](https://en.wikipedia.org/wiki/Teletext_character_set) characters. These can be combined with [ANSI escape codes for styled and colored text](https://en.wikipedia.org/wiki/ANSI_escape_code#SGR_(Select_Graphic_Rendition)_parameters). Here's an example of a plot rendering in Gnome terminal using the teletext block-diagonal characters and ANSI color codes:
@@ -34,6 +37,11 @@ In the broader universe of DIY terminals, Fabrizio Di Vittorio has a [full-featu
 
 ![Montage5](https://user-images.githubusercontent.com/687425/136545843-fec52a9e-94c9-4213-8547-1747da6c67de.png)
 
+# Version 0.2
+
+Version 0.2 includes some additional unicode characters, including Armenian, Georgian, and Katakana/Hiragana. There was an aborted, incomplete attempt to support Devanagai (prefix diacritics would require a bit of extra code to handle).
+
+![supported](https://user-images.githubusercontent.com/687425/138597065-c401426f-2000-44c7-be21-b28f73f60315.png)
 
 # How to test it
 
