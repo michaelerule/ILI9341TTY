@@ -1,13 +1,14 @@
 # ILI9341TTY
 USB serial TTY for the Arduino Uno with ILI9341 LCD screen shield
 
-[![small7200003](https://user-images.githubusercontent.com/687425/136545726-7201accb-b339-4181-a5ac-83aaa7b98b43.gif)](https://vimeo.com/625432715)
-
-[[video]](https://vimeo.com/625432715)
-<video src="https://vimeo.com/625432715" width=180></video>
-
-![Montage2](https://user-images.githubusercontent.com/687425/138597953-d5aba9b8-e358-4952-8c00-fc15979596ab.png)
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/687425/138597953-d5aba9b8-e358-4952-8c00-fc15979596ab.png">
+</br>
+</br>
+<a href="https://vimeo.com/625432715">[video]</a>
+</br>
+<a href="https://vimeo.com/625432715"><img src="https://user-images.githubusercontent.com/687425/136545726-7201accb-b339-4181-a5ac-83aaa7b98b43.gif"></a></br>
+</p>
 
 ### Semigraphics, ANSI, unicode, and an Arduino LCD-screen terminal
 
