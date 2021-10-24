@@ -34,6 +34,14 @@ In the broader universe of DIY terminals, Fabrizio Di Vittorio has a [full-featu
 
 ![Montage5](https://user-images.githubusercontent.com/687425/136545843-fec52a9e-94c9-4213-8547-1747da6c67de.png)
 
+# Version 0.2
+
+Version 0.2 includes some additional unicode characters, including Armenian, Georgian, and Katakana/Hiragana. There was an aborted, incomplete attempt to support Devanagai (prefix diacritics would require a bit of extra code to handle).
+
+![supported](https://user-images.githubusercontent.com/687425/138597065-c401426f-2000-44c7-be21-b28f73f60315.png)
+
+![Montage](https://user-images.githubusercontent.com/687425/138597210-57967b45-5a91-4704-896b-8cc0d4422c8a.png)
+
 
 # How to test it
 
