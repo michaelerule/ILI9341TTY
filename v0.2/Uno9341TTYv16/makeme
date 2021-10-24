@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+
+
+mkdir -p build
+    
+    
+avr-g++ -c -g -Os -Wall -fno-exceptions -ffunction-sections -fdata-sections -mmcu=atmega328p -DF_CPU=16000000L -MMD -DUSB_VID=null -DUSB_PID=null -DARDUINO=105 -D__PROG_TYPES_COMPAT__ -I/usr/share/arduino/hardware/arduino/cores/arduino -I/usr/share/arduino/hardware/arduino/variants/standard ./Uno9341TFT.cpp -o ./build/Uno9341TFT.cpp.o 
+
+avr-g++ -c -g -Os -Wall -fno-exceptions -ffunction-sections -fdata-sections -mmcu=atmega328p -DF_CPU=16000000L -MMD -DUSB_VID=null -DUSB_PID=null -DARDUINO=105 -D__PROG_TYPES_COMPAT__ -I/usr/share/arduino/hardware/arduino/cores/arduino -I/usr/share/arduino/hardware/arduino/variants/standard -x c++ ./Uno9341TTYv16.ino -o ./build/Uno9341TTYv16.cpp.o 
+
+avr-gcc -Os -Wl,--gc-sections -mmcu=atmega328p -o ./build/Uno9341TTYv16.cpp.elf ./build/Uno9341TFT.cpp.o ./build/Uno9341TTYv16.cpp.o ./build/core.a -L./build -lm 
+
+avr-objcopy -O ihex -j .eeprom --set-section-flags=.eeprom=alloc,load --no-change-warnings --change-section-lma .eeprom=0 ./build/Uno9341TTYv16.cpp.elf ./build/Uno9341TTYv16.cpp.eep 
+
+avr-objcopy -O ihex -R .eeprom ./build/Uno9341TTYv16.cpp.elf ./build/Uno9341TTYv16.cpp.hex 

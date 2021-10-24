@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+# sudo apt-get install xcftools to get xcf2png
+
+for file in *.xcf; 
+    do ./xcf2png_replacement.sh $file ;
+done
+
+
+
