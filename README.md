@@ -39,7 +39,7 @@ In the broader universe of DIY terminals, Fabrizio Di Vittorio has a [full-featu
 
 # Version 0.2
 
-Version 0.2 includes some additional unicode characters, including Armenian, Georgian, and Katakana/Hiragana. There was an aborted, incomplete attempt to support Devanagai (prefix diacritics would require a bit of extra code to handle). Supported unicode characters are given in [`v0.2/test_terminal/v0p2supported.txt`](https://github.com/michaelerule/ILI9341TTY/blob/main/v0.2/test_terminal/v0p2supported.txt)
+Version 0.2 includes some additional unicode characters, including Armenian, Georgian, and Katakana/Hiragana. There was an aborted, incomplete attempt to support devanagari (prefix diacritics would require a bit of extra code to handle). Supported unicode characters are given in [`v0.2/test_terminal/v0p2supported.txt`](https://github.com/michaelerule/ILI9341TTY/blob/main/v0.2/test_terminal/v0p2supported.txt)
 
 ![supported](https://user-images.githubusercontent.com/687425/138597065-c401426f-2000-44c7-be21-b28f73f60315.png)
 
