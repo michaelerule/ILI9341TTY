@@ -278,7 +278,7 @@ The [Adafruit drivers](https://github.com/adafruit/Adafruit_ILI9341) aren't opti
 
 - Specialize the driver for your particular Arduino platform and screen. Strip away unrelated code. 
 - What raw I/O operations is the driver actually doing? Are they all necessary? Check out the ILI9341 and AtMega328 datasheets. Expand all macros until you can see the raw writes to the Arduino's 8-bit IO ports. On the Arduino Uno, these are PORTB, PORTC, and PORTD. 
-- See if you can sacrifice accuracyfor speed. 
+- See if you can sacrifice accuracy for speed. 
 - See if some common special cases can be handled quicker using an optimized sequence of commands.
 
 Notes specific to the ILI9341 shield on the Uno
